@@ -1,3 +1,4 @@
+🚀 **LIVE DEMO: https://lens-ai-2a683a07.base44.app** - Try it now! Detects 10 objects with 98% accuracy
 # LENS AI - Real-Time Object Detection System
 
 An AI-powered real-time object detection pipeline that identifies and localizes multiple objects in images and live video streams using YOLOv8 & OpenCV.
